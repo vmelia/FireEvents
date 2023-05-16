@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142454396426",
+    "project_id": "fireeventsapp-115df",
+    "storage_bucket": "fireeventsapp-115df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142454396426:android:15ee9f29f73f75c816b1f3",
+        "android_client_info": {
+          "package_name": "com.companyname.fireeventsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142454396426-vfi7ktlqd3h4qm3iaaqbpb84nq1v84qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlVnNTYybKCHWTnmWKnyOdSOVJ38Kl5Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142454396426-vfi7ktlqd3h4qm3iaaqbpb84nq1v84qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
