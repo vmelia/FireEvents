@@ -29,6 +29,13 @@
             {
               "client_id": "142454396426-vfi7ktlqd3h4qm3iaaqbpb84nq1v84qd.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "142454396426-vfhonb36qd9skm9bd7m2b73pc1vbutj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.companyname.fireeventsapp"
+              }
             }
           ]
         }
